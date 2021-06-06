@@ -1,0 +1,130 @@
+body {
+  font-family: Lato;
+  margin: 0;
+  background-color: #eee;
+  height: 100%;
+}
+
+a {
+  text-decoration: none;
+}
+
+.site-title {
+  margin: 0;
+  padding: 10px 20px;
+  font-size: 30px;
+  font-weight: 100;
+  background-color: #1E2233;
+  color: #fff;
+  border-bottom: 3px solid black;
+}
+
+.row {
+  display: flex;
+}
+
+.menu {
+  flex: 20%;
+  padding: 15px 0;
+}
+
+.menu h2 {
+  padding-left: 8px;
+}
+
+.database {
+  flex: 80%;
+  padding: 15px;
+}
+
+#search-input {
+  width: 100%;
+  font-size: 18px;
+  padding: 11px;
+  border: 1px solid #ddd;
+}
+
+#links {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+#links li a {
+  padding: 12px;
+  text-decoration: none;
+  color: black;
+  display: block
+}
+
+#links li a:hover {
+  background-color: #eee;
+}
+
+.item-container {
+  margin: 10px;
+  display: flex;
+  flex-wrap: wrap;
+  background-color: #1E2233;
+  max-height: 800px;
+  overflow: auto;
+  flex-grow: 1;
+  
+}
+
+.label-list {
+  margin-left: 50px;
+  list-style-type: none;
+  display: inline-flex;
+
+}
+
+.label {
+  padding-right: 80px;
+  color: white;
+}
+
+.item {
+  flex: 1 1 100%;
+  border: 1px solid lightgrey;
+  overflow: auto;
+}
+
+.item-image {
+  width: 50px;
+  margin: 0;
+  padding: 0 20px 0 0;
+}
+
+.item-content {
+  display: flex;
+  margin: 0;
+  padding: 0; 
+}
+
+.item-holder {
+  display: inline-flex;
+  text-align: center;
+  color: white;
+  width: 85px;
+}
+
+.name {
+  margin-right: 50px;
+}
+
+.rarity, .element, .ammo, .season {
+  margin-left: 50px;
+}
+
+.expanded-content {
+  display: none;
+  flex-wrap: wrap;
+  overflow: hidden;
+}
+
+
+
+
+
+

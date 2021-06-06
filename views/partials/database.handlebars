@@ -1,0 +1,19 @@
+<div class="database" style="background-color:#ddd;">
+    <h2>Database</h2>
+    <main class="item-container">
+        <div class="labels">
+            <ul class ="label-list">
+                <li class ="label name">Name</li>
+                <li class ="label">Rarity</li>
+                <li class ="label">Element</li>
+                <li class ="label">Ammo</li>
+                <li class ="label">Season</li>
+            </ul>
+        </div>
+
+        {{#each itemContainer}}
+            {{> item}}
+        {{/each}}
+    
+    </main>
+</div>

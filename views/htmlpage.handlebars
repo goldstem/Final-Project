@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+  <head>
+
+    <meta charset="utf-8">
+    <title>Destiny 2 Weapon Database</title>
+
+    <!-- This is a 3rd-party stylesheet to make available the font family to be used for this page ("Roboto"). -->
+    <link href="https://fonts.googleapis.com/css2?family=Lato" rel="stylesheet">
+
+    <!-- This 3rd-party stylesheet incorporates SVG icons from Font Awesome: http://fontawesome.com/ -->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.3/css/all.css" crossorigin="anonymous">
+
+    <link rel="stylesheet" href="/style.css" media="screen">
+    <script src="https://cdn.jsdelivr.net/npm/handlebars@latest/dist/handlebars.runtime.js"></script>
+    <script src="/itemTemplate.js" charset="utf-8" defer></script>
+    <script src="/index.js" charset="utf-8" defer></script>
+
+  </head>
+
+  <body>
+    <!-- The <i> tag below includes the lizard hand icon from Font Awesome.  Do not directly style this element. -->
+    <a href="#"><h1 class="site-title"> Destiny 2 Weapon Database</h1></a>
+
+    <div class="row">
+      <div class="menu" style="background-color:#bbb;">
+        <h2>Search</h2>
+        <input type="text" id="search-input" placeholder="Search.." title="Type in a category">
+        <ul id="links">
+          <li><a href="#">Database</a></li>
+          <li><a href="#">Lists</a></li>
+        </ul>
+      </div>
+      
+      {{#if databasePage}}
+        {{> database}}
+      {{/if}}
+      
+    </div>
+    <footer class ="footer">
+      <p>Max Goldstein (goldstem@oregonstate.edu)</p>
+      <p>Sean Harrington (harrinse@oregonstate.edu)</p>
+    </footer>
+
+  </body>
+
+</html>
