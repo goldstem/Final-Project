@@ -165,5 +165,266 @@
         "element": "Kinetic",
         "ammo": "Special",
         "season": "14"
+    },
+    {
+        "img": "https://www.bungie.net/common/destiny2_content/icons/eaa17a0ce79c7caa171ce1852ef27569.jpg",
+        "name": "The Number",
+        "type": "Auto Rifle",
+        "rarity": "Legendary",
+        "element": "Arc",
+        "ammo": "Primary",
+        "season": "14"
+    },
+    {
+        "img": "https://www.bungie.net/common/destiny2_content/icons/359e78ea6172ee12d2d4fd3fea627b49.jpg",
+        "name": "Null Composure",
+        "type": "Fusion Rifle",
+        "rarity": "Legendary",
+        "element": "Void",
+        "ammo": "Special",
+        "season": "14"
+    },
+    {
+        "img": "https://www.bungie.net/common/destiny2_content/icons/2974c5b2cd0ad1b0c4f22266b81cde6b.jpg",
+        "name": "PLUG ONE.1",
+        "type": "Fusion Rifle",
+        "rarity": "Legendary",
+        "element": "Arc",
+        "ammo": "Special",
+        "season": "14"
+    },
+    {
+        "img": "https://www.bungie.net/common/destiny2_content/icons/1baf945ed58519bc4714f6c71633584a.jpg",
+        "name": "PLUG ONE.1 (Adept)",
+        "type": "Fusion Rifle",
+        "rarity": "Legendary",
+        "element": "Arc",
+        "ammo": "Special",
+        "season": "14"
+    },
+    {
+        "img": "https://www.bungie.net/common/destiny2_content/icons/ad6f75a7709744c90de2f300ee8bcf48.jpg",
+        "name": "Empty Vessel",
+        "type": "Grenade Launcher",
+        "rarity": "Legendary",
+        "element": "Solar",
+        "ammo": "Special",
+        "season": "14"
+    },
+    {
+        "img": "https://www.bungie.net/common/destiny2_content/icons/37fefe8f2b199c56691080ef230c3534.jpg",
+        "name": "Finite Impactor",
+        "type": "Hand Cannon",
+        "rarity": "Legendary",
+        "element": "Arc",
+        "ammo": "Primary",
+        "season": "14"
+    },
+    {
+        "img": "https://www.bungie.net/common/destiny2_content/icons/e448a8b6661c0d8a4894c8de3427cad5.jpg",
+        "name": "Gridskipper",
+        "type": "Pulse Rifle",
+        "rarity": "Legendary",
+        "element": "Void",
+        "ammo": "Primary",
+        "season": "14"
+    },
+    {
+        "img": "https://www.bungie.net/common/destiny2_content/icons/961b7f877a8008184f3022d141e244ec.jpg",
+        "name": "Pleiades Corrector",
+        "type": "Scout Rifle",
+        "rarity": "Legendary",
+        "element": "Solar",
+        "ammo": "Primary",
+        "season": "14"
+    },
+    {
+        "img": "https://www.bungie.net/common/destiny2_content/icons/714a0e5ba24a9abcad952165535364b0.jpg",
+        "name": "Vision of Confluence",
+        "type": "Scout Rifle",
+        "rarity": "Legendary",
+        "element": "Solar",
+        "ammo": "Primary",
+        "season": "14"
+    },
+    {
+        "img": "https://www.bungie.net/common/destiny2_content/icons/7d1034b1713771a8bfe439ac65293674.jpg",
+        "name": "Vision of Confluence (Timelost)",
+        "type": "Scout Rifle",
+        "rarity": "Legendary",
+        "element": "Solar",
+        "ammo": "Primary",
+        "season": "14"
+    },
+    {
+        "img": "https://www.bungie.net/common/destiny2_content/icons/831c5c8e8334c5610588c9df70676344.jpg",
+        "name": "Found Verdict",
+        "type": "Shotgun",
+        "rarity": "Legendary",
+        "element": "Arc",
+        "ammo": "Special",
+        "season": "14"
+    },
+    {
+        "img": "https://www.bungie.net/common/destiny2_content/icons/dce65eb516df0e2725af3065188b2743.jpg",
+        "name": "Found Verdict (Timelost)",
+        "type": "Shotgun",
+        "rarity": "Legendary",
+        "element": "Arc",
+        "ammo": "Special",
+        "season": "14"
+    },
+    {
+        "img": "https://www.bungie.net/common/destiny2_content/icons/65b87150ee50e03c67c4ce5d3fb6c113.jpg",
+        "name": "Sojourner's Tale",
+        "type": "Shotgun",
+        "rarity": "Legendary",
+        "element": "Solar",
+        "ammo": "Special",
+        "season": "14"
+    },
+    {
+        "img": "https://www.bungie.net/common/destiny2_content/icons/f19fcfd4c21311cdd8e7ad309a61dc2c.jpg",
+        "name": "The Deicide",
+        "type": "Shotgun",
+        "rarity": "Legendary",
+        "element": "Void",
+        "ammo": "Special",
+        "season": "14"
+    },
+    {
+        "img": "https://www.bungie.net/common/destiny2_content/icons/3d08c0b69472f9450ab003b1d8748bec.jpg",
+        "name": "The Vision",
+        "type": "Sidearm",
+        "rarity": "Legendary",
+        "element": "Arc",
+        "ammo": "Primary",
+        "season": "14"
+    },
+    {
+        "img": "https://www.bungie.net/common/destiny2_content/icons/cf6035026e2e9e42e8f7a6ca59f1ea72.jpg",
+        "name": "Occluded Finality",
+        "type": "Sniper Rifle",
+        "rarity": "Legendary",
+        "element": "Arc",
+        "ammo": "Special",
+        "season": "14"
+    },
+    {
+        "img": "https://www.bungie.net/common/destiny2_content/icons/05198a7d4adc5b12c326187dd61bdf96.jpg",
+        "name": "Uzume RR4",
+        "type": "Sniper Rifle",
+        "rarity": "Legendary",
+        "element": "Solar",
+        "ammo": "Special",
+        "season": "14"
+    },
+    {
+        "img": "https://www.bungie.net/common/destiny2_content/icons/30e5f83d4aab4f5ad52d96748856f62d.jpg",
+        "name": "Uzume RR4 (Adept)",
+        "type": "Sniper Rifle",
+        "rarity": "Legendary",
+        "element": "Solar",
+        "ammo": "Special",
+        "season": "14"
+    },
+    {
+        "img": "https://www.bungie.net/common/destiny2_content/icons/57bedcde71ace359a47fdb8e4e69ea6e.jpg",
+        "name": "Borrowed Time",
+        "type": "Submachine Gun",
+        "rarity": "Legendary",
+        "element": "Solar",
+        "ammo": "Primary",
+        "season": "14"
+    },
+    {
+        "img": "https://www.bungie.net/common/destiny2_content/icons/6021db765a0e86fcbdc8ecbee4323e41.jpg",
+        "name": "Shayura's Wrath",
+        "type": "Submachine Gun",
+        "rarity": "Legendary",
+        "element": "Void",
+        "ammo": "Primary",
+        "season": "14"
+    },
+    {
+        "img": "https://www.bungie.net/common/destiny2_content/icons/770f40e2fdd480c2db8843b14ba3a60d.jpg",
+        "name": "Shayura's Wrath (Adept)",
+        "type": "Submachine Gun",
+        "rarity": "Legendary",
+        "element": "Void",
+        "ammo": "Primary",
+        "season": "14"
+    },
+    {
+        "img": "https://www.bungie.net/common/destiny2_content/icons/450ba3cac0ae75bbfea9d3659798f817.jpg",
+        "name": "Stochastic Variable",
+        "type": "Submachine Gun",
+        "rarity": "Legendary",
+        "element": "Arc",
+        "ammo": "Primary",
+        "season": "14"
+    },
+    {
+        "img": "https://www.bungie.net/common/destiny2_content/icons/ec0fc34b7199005aeaa415adedb8f63b.jpg",
+        "name": "Memory Interdict",
+        "type": "Grenade Launcher",
+        "rarity": "Legendary",
+        "element": "Void",
+        "ammo": "Heavy",
+        "season": "14"
+    },
+    {
+        "img": "https://www.bungie.net/common/destiny2_content/icons/d4d24f0c0a22666cdc9a365ad5fe3cf2.jpg",
+        "name": "Archon's Thunder",
+        "type": "Machine Gun",
+        "rarity": "Legendary",
+        "element": "Solar",
+        "ammo": "Heavy",
+        "season": "14"
+    },
+    {
+        "img": "https://www.bungie.net/common/destiny2_content/icons/d1b6bb6685c073cc52e65180801b9abf.jpg",
+        "name": "Corrective Measure",
+        "type": "Machine Gun",
+        "rarity": "Legendary",
+        "element": "Void",
+        "ammo": "Heavy",
+        "season": "14"
+    },
+    {
+        "img": "https://www.bungie.net/common/destiny2_content/icons/f7beeb61054af0e31be00465d2a27aae.jpg",
+        "name": "Corrective Measure (Timelost)",
+        "type": "Machine Gun",
+        "rarity": "Legendary",
+        "element": "Void",
+        "ammo": "Heavy",
+        "season": "14"
+    },
+    {
+        "img": "https://www.bungie.net/common/destiny2_content/icons/a2f01f3c527b240bfb51ae32def5807d.jpg",
+        "name": "Shattered Cipher",
+        "type": "Machine Gun",
+        "rarity": "Legendary",
+        "element": "Void",
+        "ammo": "Heavy",
+        "season": "14"
+    },
+    {
+        "img": "https://www.bungie.net/common/destiny2_content/icons/8836eea0aaf42fb810bc2ec6cb35aa8e.jpg",
+        "name": "Hezen Vengeance",
+        "type": "Rocket Launcher",
+        "rarity": "Legendary",
+        "element": "Solar",
+        "ammo": "Heavy",
+        "season": "14"
+    },
+    {
+        "img": "https://www.bungie.net/common/destiny2_content/icons/b2662d712b4fc4c0cee8e1b70c167581.jpg",
+        "name": "Hezen Vengeance (Timelost)",
+        "type": "Rocket Launcher",
+        "rarity": "Legendary",
+        "element": "Solar",
+        "ammo": "Heavy",
+        "season": "14"
     }
 ]
