@@ -44,6 +44,10 @@ a {
   border: 1px solid #ddd;
 }
 
+#search-input:focus{
+  border: 1px solid rgb(158, 158, 158);
+}
+
 #links {
   list-style-type: none;
   padding: 0;
@@ -118,7 +122,7 @@ a {
   margin-right: 50px;
 }
 
-.rarity, .element, .ammo, .season {
+.type, .rarity, .element, .ammo, .season {
   margin-left: 50px;
 }
 
@@ -127,6 +131,35 @@ a {
   flex-wrap: wrap;
   overflow: hidden;
 }
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown p{
+  font-size: 16px;
+  font-weight: 600;
+  padding-left: 10px;
+}
+/*
+.menu-button {
+  background-color: #1E2233;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  cursor: pointer;
+  size: 20px;
+}
+*/
+
+.dropdown-options {
+  background-color: lightgray;
+  cursor: pointer;
+  padding: 10px;
+  display: block;
+}
+
 
 
 

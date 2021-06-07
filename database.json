@@ -2,6 +2,7 @@
     {
         "img": "https://www.bungie.net/common/destiny2_content/icons/a2499e40b1c62fe604359fd3bca921d2.jpg",
         "name": "Fatebringer",
+        "type": "Hand Cannon",
         "rarity": "legendary",
         "element": "kinetic",
         "ammo": "primary",
@@ -9,144 +10,160 @@
     },
 
     {
-        "img": "https://www.bungie.net/common/destiny2_content/icons/a2499e40b1c62fe604359fd3bca921d2.jpg",
-        "name": "longer fatebringer",
-        "rarity": "exotic",
-        "element": "void",
-        "ammo": "heavy",
-        "season": "9"
+        "img": "https://www.bungie.net/common/destiny2_content/icons/53989f95d057bdf0b2607a4b6de2013e.jpg",
+        "name": "Cryosthesia 77K",
+        "type": "Sidearm",
+        "rarity": "Exotic",
+        "element": "Stasis/Kinetic",
+        "ammo": "Primary",
+        "season": "14"
     },
 
     {
-        "img": "https://www.bungie.net/common/destiny2_content/icons/a2499e40b1c62fe604359fd3bca921d2.jpg",
-        "name": "lol lol lol lol",
-        "rarity": "legendary",
-        "element": "solar",
-        "ammo": "special",
-        "season": "12"
+        "img": "https://www.bungie.net/common/destiny2_content/icons/a8e1945b653a0cfb35c3652bef2f6092.jpg",
+        "name": "Vex Mythoclast",
+        "type": "Fusion Rifle",
+        "rarity": "Exotic",
+        "element": "Solar",
+        "ammo": "Special",
+        "season": "14"
     },
 
     {
-        "img": "https://www.bungie.net/common/destiny2_content/icons/a2499e40b1c62fe604359fd3bca921d2.jpg",
-        "name": "Fatebringer",
-        "rarity": "legendary",
-        "element": "void",
-        "ammo": "primary",
+        "img": "https://www.bungie.net/common/destiny2_content/icons/cbf6f233e22375aef5502cac9803aa54.jpg",
+        "name": "Crown-Splitter",
+        "type": "Sword",
+        "rarity": "Legendary",
+        "element": "Void",
+        "ammo": "Heavy",
+        "season": "14"
+    },
+
+    {
+        "img": "https://www.bungie.net/common/destiny2_content/icons/87284b1d8453c9b137a0c4a37c10202a.jpg",
+        "name": "Quickfang",
+        "type": "Sword",
+        "rarity": "Legendary",
+        "element": "Void",
+        "ammo": "Heavy",
+        "season": "14"
+    },
+
+    {
+        "img": "https://www.bungie.net/common/destiny2_content/icons/42b579f9efa7ab24844dcdd3a65880d5.jpg",
+        "name": "Eternity's Edge",
+        "type": "Sword",
+        "rarity": "Legendary",
+        "element": "Solar",
+        "ammo": "Heavy",
+        "season": "14"
+    },
+
+    {
+        "img": "https://www.bungie.net/common/destiny2_content/icons/c291e9e23c0f4a7b7646f32e0936e307.jpg",
+        "name": "Chroma Rush",
+        "type": "Auto Rifle",
+        "rarity": "Legendary",
+        "element": "Kinetic",
+        "ammo": "Primary",
+        "season": "14"
+    },
+
+    {
+        "img": "https://www.bungie.net/common/destiny2_content/icons/392e194e5ca22ba379c482ecde77c029.jpg",
+        "name": "Ignition Code",
+        "type": "Grenade Launcher",
+        "rarity": "Legendary",
+        "element": "Kinetic",
+        "ammo": "Special",
         "season": "14"
     },
 
     {
         "img": "https://www.bungie.net/common/destiny2_content/icons/a2499e40b1c62fe604359fd3bca921d2.jpg",
         "name": "Fatebringer",
-        "rarity": "exotic",
-        "element": "kinetic",
-        "ammo": "primary",
+        "type": "Hand Cannon",
+        "rarity": "Legendary",
+        "element": "Kinetic",
+        "ammo": "Primary",
         "season": "14"
     },
 
     {
-        "img": "https://www.bungie.net/common/destiny2_content/icons/a2499e40b1c62fe604359fd3bca921d2.jpg",
-        "name": "Fatebringer",
-        "rarity": "legendary",
-        "element": "kinetic",
-        "ammo": "primary",
+        "img": "https://www.bungie.net/common/destiny2_content/icons/2679a29c524de017046d338b1c1de3c7.jpg",
+        "name": "Fatebringer (Timelost)",
+        "type": "Hand Cannon",
+        "rarity": "Legendary",
+        "element": "Kinetic",
+        "ammo": "Primary",
         "season": "14"
     },
 
     {
-        "img": "https://www.bungie.net/common/destiny2_content/icons/a2499e40b1c62fe604359fd3bca921d2.jpg",
-        "name": "Fatebringer",
-        "rarity": "legendary",
-        "element": "kinetic",
-        "ammo": "primary",
+        "img": "https://www.bungie.net/common/destiny2_content/icons/6fe41d7ffd7761674202f2f5e914b151.jpg",
+        "name": "Survivor's Epitaph",
+        "type": "Hand Cannon",
+        "rarity": "Legendary",
+        "element": "Kinetic",
+        "ammo": "Primary",
         "season": "14"
     },
 
     {
-        "img": "https://www.bungie.net/common/destiny2_content/icons/a2499e40b1c62fe604359fd3bca921d2.jpg",
-        "name": "Fatebringer",
-        "rarity": "legendary",
-        "element": "kinetic",
-        "ammo": "primary",
+        "img": "https://www.bungie.net/common/destiny2_content/icons/c2ced53f1b325731e716d0005aacf67f.jpg",
+        "name": "Hung Jury SR4",
+        "type": "Scout Rifle",
+        "rarity": "Legendary",
+        "element": "Kinetic",
+        "ammo": "Primary",
         "season": "14"
     },
 
     {
-        "img": "https://www.bungie.net/common/destiny2_content/icons/a2499e40b1c62fe604359fd3bca921d2.jpg",
-        "name": "Fatebringer",
-        "rarity": "legendary",
-        "element": "kinetic",
-        "ammo": "primary",
+        "img": "https://www.bungie.net/common/destiny2_content/icons/a70dab17197e48824119df7ef397a2dc.jpg",
+        "name": "Hung Jury SR4 (Adept)",
+        "type": "Scout Rifle",
+        "rarity": "Legendary",
+        "element": "Kinetic",
+        "ammo": "Primary",
         "season": "14"
     },
 
     {
-        "img": "https://www.bungie.net/common/destiny2_content/icons/a2499e40b1c62fe604359fd3bca921d2.jpg",
-        "name": "Fatebringer",
-        "rarity": "legendary",
-        "element": "kinetic",
-        "ammo": "primary",
+        "img": "https://www.bungie.net/common/destiny2_content/icons/160b59ce11e5eb306a2fae10d0697ed8.jpg",
+        "name": "Riiswalker",
+        "type": "Shotgun",
+        "rarity": "Legendary",
+        "element": "Kinetic",
+        "ammo": "Special",
         "season": "14"
     },
 
     {
-        "img": "https://www.bungie.net/common/destiny2_content/icons/a2499e40b1c62fe604359fd3bca921d2.jpg",
-        "name": "Fatebringer",
-        "rarity": "legendary",
-        "element": "kinetic",
-        "ammo": "primary",
-        "season": "14"
-    },
-
-    {
-        "img": "https://www.bungie.net/common/destiny2_content/icons/a2499e40b1c62fe604359fd3bca921d2.jpg",
-        "name": "Fatebringer",
-        "rarity": "legendary",
-        "element": "kinetic",
-        "ammo": "primary",
-        "season": "14"
-    },
-
-    {
-        "img": "https://www.bungie.net/common/destiny2_content/icons/a2499e40b1c62fe604359fd3bca921d2.jpg",
-        "name": "Fatebringer",
-        "rarity": "legendary",
-        "element": "kinetic",
-        "ammo": "primary",
-        "season": "14"
-    },
-
-    {
-        "img": "https://www.bungie.net/common/destiny2_content/icons/a2499e40b1c62fe604359fd3bca921d2.jpg",
-        "name": "Fatebringer",
-        "rarity": "legendary",
-        "element": "kinetic",
-        "ammo": "primary",
-        "season": "14"
-    },
-
-    {
-        "img": "https://www.bungie.net/common/destiny2_content/icons/a2499e40b1c62fe604359fd3bca921d2.jpg",
-        "name": "Fatebringer",
-        "rarity": "legendary",
-        "element": "kinetic",
-        "ammo": "primary",
+        "img": "https://www.bungie.net/common/destiny2_content/icons/08544ee941dd46d6c9028c9cf342a058.jpg",
+        "name": "Farewell",
+        "type": "Sidearm",
+        "rarity": "Legendary",
+        "element": "Kinetic",
+        "ammo": "Primary",
         "season": "14"
     },
     {
-        "img": "https://www.bungie.net/common/destiny2_content/icons/a2499e40b1c62fe604359fd3bca921d2.jpg",
-        "name": "Fatebringer",
-        "rarity": "legendary",
-        "element": "kinetic",
-        "ammo": "primary",
+        "img": "https://www.bungie.net/common/destiny2_content/icons/aa6cad87aee2a845d19e4e448f1f8a5f.jpg",
+        "name": "Praedyth's Revenge",
+        "type": "Sniper Rifle",
+        "rarity": "Legendary",
+        "element": "Kinetic",
+        "ammo": "Special",
         "season": "14"
     },
     {
-        "img": "https://www.bungie.net/common/destiny2_content/icons/a2499e40b1c62fe604359fd3bca921d2.jpg",
-        "name": "Fatebringer",
-        "rarity": "legendary",
-        "element": "kinetic",
-        "ammo": "primary",
+        "img": "https://www.bungie.net/common/destiny2_content/icons/0f69a71b41017725de9bd60c29b0ca84.jpg",
+        "name": "Praedyth's Revenge (Timelost)",
+        "type": "Sniper Rifle",
+        "rarity": "Legendary",
+        "element": "Kinetic",
+        "ammo": "Special",
         "season": "14"
     }
 ]

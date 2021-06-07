@@ -20,7 +20,7 @@ function doSearch() {
     
     allItems.forEach(function (item) {
         if(searchQuery(item, query)){
-            insertItem(item.img, item.name, item.rarity, item.element, item.ammo, item.season)
+            insertItem(item.img, item.name, item.type, item.rarity, item.element, item.ammo, item.season)
         }
     })
 }
@@ -31,13 +31,33 @@ function searchQuery(item, query){
     }
 
     query = query.trim().toLowerCase()
-    return(item.name.toLowerCase().indexOf(query) >= 0)
+
+    var option = document.getElementsByClassName("dropdown-options")[0]
+    if(option.selectedIndex === 0){
+        return(item.name.toLowerCase().indexOf(query) >= 0)
+    }
+    if(option.selectedIndex === 1){
+        return(item.type.toLowerCase().indexOf(query) >= 0)
+    }
+    if(option.selectedIndex === 2){
+        return(item.rarity.toLowerCase().indexOf(query) >= 0)
+    }
+    if(option.selectedIndex === 3){
+        return(item.element.toLowerCase().indexOf(query) >= 0)
+    }
+    if(option.selectedIndex === 4){
+        return(item.ammo.toLowerCase().indexOf(query) >= 0)
+    }
+    if(option.selectedIndex === 5){
+        return(item.season.toLowerCase().indexOf(query) >= 0)
+    } 
 }
 
-function insertItem(img, name, rarity, element, ammo, season){
+function insertItem(img, name, type, rarity, element, ammo, season){
     var itemContext = {
         img: img,
         name: name,
+        type: type,
         rarity: rarity,
         element: element,
         ammo: ammo,
@@ -59,6 +79,9 @@ function convertItemToObject(itemEle){
 
     var itemName = itemEle.querySelector(".name-tag")
     item.name = itemName.textContent.trim()
+
+    var itemType = itemEle.querySelector(".type-tag")
+    item.type = itemType.textContent.trim()
 
     var rarityName = itemEle.querySelector(".rarity-tag")
     item.rarity = rarityName.textContent.trim()
