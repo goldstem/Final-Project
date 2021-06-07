@@ -61,27 +61,32 @@ a {
   background-color: #eee;
 }
 
-.item-container {
+.item-container{
   margin: 10px;
+}
+
+.item-container, .labels{
   display: flex;
   flex-wrap: wrap;
   background-color: #1E2233;
   max-height: 800px;
   overflow: auto;
-  flex-grow: 1;
-  
+}
+
+.labels{
+  margin-left: 10px;
 }
 
 .label-list {
   margin-left: 50px;
   list-style-type: none;
   display: inline-flex;
-
 }
 
 .label {
   padding-right: 80px;
   color: white;
+  display: inline-flex;
 }
 
 .item {
