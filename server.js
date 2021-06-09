@@ -3,6 +3,8 @@
  * @oregonstate.edu email address below.
  *
  * Name: Max Goldstein
+ * Name: Sean Harrington
+ * Email: Harrinse@oregonstate.edu
  * Email: goldstem@oregonstate.edu
  */
 
