@@ -26,6 +26,6 @@ templates['item'] = template({"compiler":[8,">= 4.3.0"],"main":function(containe
     + alias4(((helper = (helper = lookupProperty(helpers,"perks1") || (depth0 != null ? lookupProperty(depth0,"perks1") : depth0)) != null ? helper : alias2),(typeof helper === alias3 ? helper.call(alias1,{"name":"perks1","hash":{},"data":data,"loc":{"start":{"line":40,"column":12},"end":{"line":40,"column":22}}}) : helper)))
     + "\r\n        </p>\r\n        <p>Slot 2:</p>\r\n        <p class =\"perks2-content\">\r\n            "
     + alias4(((helper = (helper = lookupProperty(helpers,"perks2") || (depth0 != null ? lookupProperty(depth0,"perks2") : depth0)) != null ? helper : alias2),(typeof helper === alias3 ? helper.call(alias1,{"name":"perks2","hash":{},"data":data,"loc":{"start":{"line":44,"column":12},"end":{"line":44,"column":22}}}) : helper)))
-    + "\r\n        </p>\r\n            \r\n    </div>\r\n</article>";
+    + "\r\n        </p>\r\n    </div>\r\n</article>";
 },"useData":true});
 })();

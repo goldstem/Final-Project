@@ -11,6 +11,7 @@ var express = require('express');
 var exphbs = require('express-handlebars')
 
 var itemData = require('./database.json')
+var extraData = require('./ExtraContent.json')
 
 var app = express();
 var port = process.env.PORT || 3000;

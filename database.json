@@ -7,6 +7,7 @@
         "element": "kinetic",
         "ammo": "primary",
         "season": "14",
+        "text": "Delivering the inevitable, one pull at a time.",
         "perks1": ["Rewind Rounds", "Explosive Payload", "Killing Wind", "Tunnel Vision", "Osmosis", "Thresh"],
         "perks2": ["Frenzy", "Firefly", "Eye Of The Storm", "Kill Clip", "Opening Shot", "Adrenaline Junkie"]
     },
@@ -18,7 +19,10 @@
         "rarity": "Exotic",
         "element": "Stasis/Kinetic",
         "ammo": "Primary",
-        "season": "14"
+        "season": "14",
+        "text": "There are things colder then cold",
+        "perks1": ["LN2 Burst"],
+        "perks2": ["Liquid Cooling"]
     },
 
     {
@@ -28,7 +32,10 @@
         "rarity": "Exotic",
         "element": "Solar",
         "ammo": "Special",
-        "season": "14"
+        "season": "14",
+        "text": "…a causal loop within the weapon's mechanism, suggesting that the firing process somehow binds space and time into…",
+        "perks1": ["Timeless Mythoclast"],
+        "perks2": ["Temporal Unlimiter"]
     },
 
     {
@@ -38,7 +45,10 @@
         "rarity": "Legendary",
         "element": "Void",
         "ammo": "Heavy",
-        "season": "14"
+        "season": "14",
+        "text": "Our enemies think themselves gods and kings. Show them the error of their ways. —Callisto Yin",
+        "perks1": ["Relentless Strikes", "Tireless Blade", "Flash Counter", "Thresh"],
+        "perks2": ["Vorpal Weapon", "Whirlwind Blade", "Surrounded", "Kill Clip", "Counterattack"]
     },
 
     {
@@ -48,7 +58,10 @@
         "rarity": "Legendary",
         "element": "Void",
         "ammo": "Heavy",
-        "season": "14"
+        "season": "14",
+        "text": "My smile is full of blades",
+        "perks1": ["Tireless Blade", "Relentless Strikes", "Energy Transfer", "Thresh"],
+        "perks2": ["Assassin's Blade", "En Garde", "Flash Counter", "One For All"]
     },
 
     {
@@ -58,7 +71,10 @@
         "rarity": "Legendary",
         "element": "Solar",
         "ammo": "Heavy",
-        "season": "14"
+        "season": "14",
+        "text": "A sword is a wand that casts two spells: parry and cut. —Tarsem Sauer",
+        "perks1": ["Thresh", "Tireless Blade", "Energy Transfer", "Relentless Strikes"],
+        "perks2": ["Counterattack", "Flash Counter", "Surrounded", "Assassin's Blade"]
     },
 
     {
@@ -68,7 +84,10 @@
         "rarity": "Legendary",
         "element": "Kinetic",
         "ammo": "Primary",
-        "season": "14"
+        "season": "14",
+        "text": "Drink from the data stream.",
+        "perks1": ["Heating Up", "Feeding Frenzy", "Subsistence", "Dynamic Sway Reduction", "Moving Target", "Tunnel Vision"],
+        "perks2": ["Kill Clip", "Rampage", "Wellspring", "Tap The Trigger", "Adrenaline Junkie", "Thresh"]
     },
 
     {
@@ -78,7 +97,10 @@
         "rarity": "Legendary",
         "element": "Kinetic",
         "ammo": "Special",
-        "season": "14"
+        "season": "14",
+        "text": "I can decode anything with a grenade launcher. —Saint-14",
+        "perks1": ["Slideshot", "Ambitious Assassin", "Quickdraw", "Field Prep", "Surplus", "Lead From Gold"],
+        "perks2": ["Vorpal Weapon", "Demolitionist", "One For All", "Frenzy", "Thresh", "Danger Zone"]
     },
 
     {
@@ -88,7 +110,11 @@
         "rarity": "Legendary",
         "element": "Kinetic",
         "ammo": "Primary",
-        "season": "14"
+        "season": "14",
+        "text": "Delivering the inevitable, one pull at a time.",
+        "perks1": ["Rewind Rounds", "Explosive Payload", "Killing Wind", "Tunnel Vision", "Osmosis", "Thresh"],
+        "perks2": ["Frenzy", "Firefly", "Eye Of The Storm", "Kill Clip", "Opening Shot", "Adrenaline Junkie"]
+        
     },
 
     {
@@ -98,7 +124,10 @@
         "rarity": "Legendary",
         "element": "Kinetic",
         "ammo": "Primary",
-        "season": "14"
+        "season": "14",
+        "text": "But where is your fate, and who brings it to you?",
+        "perks1": ["Rewind Rounds", "Explosive Payload", "Killing Wind", "Tunnel Vision", "Osmosis", "Thresh"],
+        "perks2": ["Frenzy", "Firefly", "Eye Of The Storm", "Kill Clip", "Opening Shot", "Adrenaline Junkie"]
     },
 
     {
@@ -108,7 +137,10 @@
         "rarity": "Legendary",
         "element": "Kinetic",
         "ammo": "Primary",
-        "season": "14"
+        "season": "14",
+        "text": "A weapon hides nothing. It is what it is. Whether it wants to be or not. —Saint-14 to Shaxx",
+        "perks1": ["Tunnel Vision", "Heating Up", "Firmly Planted", "Quickdraw", "Surplus", "Outlaw", "Feeding Frenzy", "Ambitious Assassin", "Killing Wind", "Slideshot", "Subsistence", "Rapid Hit"],
+        "perks2": ["Moving Target", "Adrenaline Junkie", "Frenzy", "Osmosis", "Eye Of The Storm", "Snapshot", "Wellspring", "Multikill Clip", "Thresh", "One For All", "High-Impact Reserves", "Kill Clip"]
     },
 
     {
@@ -118,7 +150,10 @@
         "rarity": "Legendary",
         "element": "Kinetic",
         "ammo": "Primary",
-        "season": "14"
+        "season": "14",
+        "text": "A Scout Rifle, modified by Dead Orbit's superb technicians and specialists.",
+        "perks1": ["Subsistence", "Rapid Hit", "Moving Target", "Heating Up", "Bottomless Greif", "Surplus"],
+        "perks2": ["Explosive Payload", "One For All", "Firefly", "Adrenaline Junkie", "Box Breathing", "Wellspring"]
     },
 
     {
@@ -128,7 +163,11 @@
         "rarity": "Legendary",
         "element": "Kinetic",
         "ammo": "Primary",
-        "season": "14"
+        "season": "14",
+        "text": "A Scout Rifle, modified by Dead Orbit's superb technicians and specialists",
+        "perks1": ["Subsistence", "Rapid Hit", "Moving Target", "Heating Up", "Bottomless Greif", "Surplus"],
+        "perks2": ["Explosive Payload", "One For All", "Firefly", "Adrenaline Junkie", "Box Breathing", "Wellspring"]
+
     },
 
     {
@@ -138,7 +177,10 @@
         "rarity": "Legendary",
         "element": "Kinetic",
         "ammo": "Special",
-        "season": "14"
+        "season": "14",
+        "text": "No. I will not allow a Fallen to fight in the Banner, that right is reserved for Guardians alone. But if you insist, I may allow a Guardian to carry a Fallen-forged weapon into battle. You are a weaponsmith, are you not? —Lord Saladin to an Unknown Eliksni",
+        "perks1": ["Slideways", "Hip-Fire Grip", "Quickdraw", "Surplus", "Firmly Planted", "Eye Of The Storm"],
+        "perks2": ["Iron Reach", "Killing Wind", "Unrelenting", "Vorpal Weapon", "Demolitionist", "Swashbuckler"]
     },
 
     {
@@ -148,7 +190,11 @@
         "rarity": "Legendary",
         "element": "Kinetic",
         "ammo": "Primary",
-        "season": "14"
+        "season": "14",
+        "text": "A peace born from violence is no peace at all. —Lady Efrideet",
+        "perks1": ["Full Auto Trigger System", "Heating Up", "Subsistence", "Rangefinder", "Tunnel Vision", "Moving Target"],
+        "perks2": ["Frenzy", "Thresh", "Vorpal Weapon", "Adrenaline Junkie", "Unrelenting", "Multikill Clip"]
+        
     },
     {
         "img": "https://www.bungie.net/common/destiny2_content/icons/aa6cad87aee2a845d19e4e448f1f8a5f.jpg",
@@ -157,7 +203,10 @@
         "rarity": "Legendary",
         "element": "Kinetic",
         "ammo": "Special",
-        "season": "14"
+        "season": "14",
+        "text": "Praedyth's fall isn't over… because it hasn't happened yet… and it will happen again.",
+        "perks1": ["Osmosis", "Rewind Rounds", "Quickdraw", "No Distractions", "Moving Target", "Feeding Frenzy"],
+        "perks2": ["Frenzy", "High-Impact Reserves", "Firefly", "Adrenaline Junkie", "Opening Shot", "Kill Clip"]
     },
     {
         "img": "https://www.bungie.net/common/destiny2_content/icons/0f69a71b41017725de9bd60c29b0ca84.jpg",
@@ -166,7 +215,10 @@
         "rarity": "Legendary",
         "element": "Kinetic",
         "ammo": "Special",
-        "season": "14"
+        "season": "14",
+        "text": "Praedyth will never fall.",
+        "perks1": ["Osmosis", "Rewind Rounds", "Quickdraw", "No Distractions", "Moving Target", "Feeding Frenzy"],
+        "perks2": ["Frenzy", "High-Impact Reserves", "Firefly", "Adrenaline Junkie", "Opening Shot", "Kill Clip"]
     },
     {
         "img": "https://www.bungie.net/common/destiny2_content/icons/eaa17a0ce79c7caa171ce1852ef27569.jpg",
@@ -175,7 +227,10 @@
         "rarity": "Legendary",
         "element": "Arc",
         "ammo": "Primary",
-        "season": "14"
+        "season": "14",
+        "text": "Ah, but which number? Why it and no others? —Lakshmi-2",
+        "perks1": ["Threat Detector", "Field Prep", "Under Pressure", "Underdog", "Surplus", "Killing Wind"],
+        "perks2": ["Wellspring", "One For All", "Multikill Clip", "High-Impact Reserves", "Sympathetic Arsenal"]
     },
     {
         "img": "https://www.bungie.net/common/destiny2_content/icons/359e78ea6172ee12d2d4fd3fea627b49.jpg",
@@ -184,7 +239,10 @@
         "rarity": "Legendary",
         "element": "Void",
         "ammo": "Special",
-        "season": "14"
+        "season": "14",
+        "text": "Initiate or suppress.",
+        "perks1": ["Feeding Frenzy", "Heating Up"],
+        "perks2": ["Reservoir Burst", "High-Impact Reserves"]
     },
     {
         "img": "https://www.bungie.net/common/destiny2_content/icons/2974c5b2cd0ad1b0c4f22266b81cde6b.jpg",
@@ -193,7 +251,10 @@
         "rarity": "Legendary",
         "element": "Arc",
         "ammo": "Special",
-        "season": "14"
+        "season": "14",
+        "text": "Move with the current.",
+        "perks1": ["Feeding Frenzy", "Heating Up", "Under Pressure", "Bottomless Greif", "Killing Wind", "Quickdraw"],
+        "perks2": ["Reservoir Burst", "Cornered", "Adrenaline Junkie", "Kickstart", "Backup Plan", "Thresh"]
     },
     {
         "img": "https://www.bungie.net/common/destiny2_content/icons/1baf945ed58519bc4714f6c71633584a.jpg",
@@ -202,7 +263,10 @@
         "rarity": "Legendary",
         "element": "Arc",
         "ammo": "Special",
-        "season": "14"
+        "season": "14",
+        "text": "Move with the current.",
+        "perks1": ["Feeding Frenzy", "Heating Up", "Under Pressure", "Bottomless Greif", "Killing Wind", "Quickdraw"],
+        "perks2": ["Reservoir Burst", "Cornered", "Adrenaline Junkie", "Kickstart", "Backup Plan", "Thresh"]
     },
     {
         "img": "https://www.bungie.net/common/destiny2_content/icons/ad6f75a7709744c90de2f300ee8bcf48.jpg",
@@ -211,7 +275,10 @@
         "rarity": "Legendary",
         "element": "Solar",
         "ammo": "Special",
-        "season": "14"
+        "season": "14",
+        "text": "It's versatile. By itself, it's nothing, just an empty tube. But that's its deceptive beauty; it's all about what you fill it with. What you make it. What you make it do. —Banshee-44",
+        "perks1": ["Auto-Loading Holster", "Threat Detector", "Ambitious Assassin", "Quickdraw", "Surplus", "Genesis", "Feeding Frenzy", "Lead From Gold", "Field Prep", "Underdog"],
+        "perks2": ["Disruption Break", "Demolitionist", "Vorpal Weapon", "One For All", "Multikill Clip", "Unrelenting", "Snapshot", "Danger Zone", "Swashbuckler", "Thresh"]
     },
     {
         "img": "https://www.bungie.net/common/destiny2_content/icons/37fefe8f2b199c56691080ef230c3534.jpg",
@@ -220,7 +287,10 @@
         "rarity": "Legendary",
         "element": "Arc",
         "ammo": "Primary",
-        "season": "14"
+        "season": "14",
+        "text": "Do not say a little in many words—say a great deal in a few.",
+        "perks1": ["Slideways", "Under Pressure", "No Distractions", "Field Prep", "Heating Up", "Killing Wind"],
+        "perks2": ["One For All", "Eye Of The Storm", "Iron Grip", "Iron Reach", "Multikill Clip", "Elemental Capacitor"]
     },
     {
         "img": "https://www.bungie.net/common/destiny2_content/icons/e448a8b6661c0d8a4894c8de3427cad5.jpg",
@@ -229,7 +299,11 @@
         "rarity": "Legendary",
         "element": "Void",
         "ammo": "Primary",
-        "season": "14"
+        "season": "14",
+        "text": "No stars overhead. Best not to look up. —Amanda Holliday",
+        "perks1": ["Killing Wind", "Heating Up", "Slideways", "Moving Target", "Tunnel Vision", "Firmly Planted"],
+        "perks2": ["High-Impact Reserves", "Multikill Clip", "Frenzy", "Thresh", "Snapshot", "Adrenaline Junkie"]
+        
     },
     {
         "img": "https://www.bungie.net/common/destiny2_content/icons/961b7f877a8008184f3022d141e244ec.jpg",
@@ -238,7 +312,10 @@
         "rarity": "Legendary",
         "element": "Solar",
         "ammo": "Primary",
-        "season": "14"
+        "season": "14",
+        "text": "No, I don't think I'll tell you what it's for. That would be too easy. —Lakshmi-2",
+        "perks1": ["Fourth Time's The Charm", "Outlaw", "Subsistence", "Field Prep", "Surplus", "Genesis"],
+        "perks2": ["Demolitionist", "Wellspring", "Multikill Clip", "Sympathetic Arsenal", "Eye Of The Storm", "Elemental Capacitor"]
     },
     {
         "img": "https://www.bungie.net/common/destiny2_content/icons/714a0e5ba24a9abcad952165535364b0.jpg",
@@ -247,7 +324,10 @@
         "rarity": "Legendary",
         "element": "Solar",
         "ammo": "Primary",
-        "season": "14"
+        "season": "14",
+        "text": "What you have seen will mark you forever.",
+        "perks1": ["Rewind Rounds", "Tunnel Vision", "Wellspring", "Surplus", "Killing Wind", "Zen Moment"],
+        "perks2": ["Firefly", "Disruption Break", "Frenzy", "Kill Clip", "Thresh", "Full Auto Trigger System"]
     },
     {
         "img": "https://www.bungie.net/common/destiny2_content/icons/7d1034b1713771a8bfe439ac65293674.jpg",
@@ -256,7 +336,10 @@
         "rarity": "Legendary",
         "element": "Solar",
         "ammo": "Primary",
-        "season": "14"
+        "season": "14",
+        "text": "In the abyss of time, all the lines converge… upon you.",
+        "perks1": ["Rewind Rounds", "Tunnel Vision", "Wellspring", "Surplus", "Killing Wind", "Zen Moment"],
+        "perks2": ["Firefly", "Disruption Break", "Frenzy", "Kill Clip", "Thresh", "Full Auto Trigger System"]
     },
     {
         "img": "https://www.bungie.net/common/destiny2_content/icons/831c5c8e8334c5610588c9df70676344.jpg",
@@ -265,7 +348,10 @@
         "rarity": "Legendary",
         "element": "Arc",
         "ammo": "Special",
-        "season": "14"
+        "season": "14",
+        "text": "Witness",
+        "perks1": ["Rewind Rounds", "Auto-Loading Holster", "Surplus", "Unrelenting", "Slideshot", "Full Auto Trigger System"],
+        "perks2": ["One-Two Punch", "Frenzy", "Vorpal Weapon", "Demolitionist", "Opening Shot", "Killing Wind"]
     },
     {
         "img": "https://www.bungie.net/common/destiny2_content/icons/dce65eb516df0e2725af3065188b2743.jpg",
@@ -274,7 +360,10 @@
         "rarity": "Legendary",
         "element": "Arc",
         "ammo": "Special",
-        "season": "14"
+        "season": "14",
+        "text": "Guilty",
+        "perks1": ["Rewind Rounds", "Auto-Loading Holster", "Surplus", "Unrelenting", "Slideshot", "Full Auto Trigger System"],
+        "perks2": ["One-Two Punch", "Frenzy", "Vorpal Weapon", "Demolitionist", "Opening Shot", "Killing Wind"]
     },
     {
         "img": "https://www.bungie.net/common/destiny2_content/icons/65b87150ee50e03c67c4ce5d3fb6c113.jpg",
@@ -283,7 +372,10 @@
         "rarity": "Legendary",
         "element": "Solar",
         "ammo": "Special",
-        "season": "14"
+        "season": "14",
+        "text":	"Home is just over the horizon",
+        "perks1": ["Auto-Loading Holster", "Rapid Hit", "Tunnel Vision", "Threat Detector", "Quickdraw", "Moving Target"],
+        "perks2": ["Frenzy", "Surrounded", "Killing Wind", "Adrenaline Junkie", "Dragonfly", "Opening Shot"]
     },
     {
         "img": "https://www.bungie.net/common/destiny2_content/icons/f19fcfd4c21311cdd8e7ad309a61dc2c.jpg",
@@ -292,7 +384,11 @@
         "rarity": "Legendary",
         "element": "Void",
         "ammo": "Special",
-        "season": "14"
+        "season": "14",
+        "text": "Believe in war, and nothing else. —Lakshmi-2",
+        "perks1": ["Grave Robber", "Lead From Gold", "Dual Loader", "Slideshot", "Surplus", "Hip-Fire Grip"],
+        "perks2": ["One-Two Punch", "Elemental Capacitor", "Wellspring", "Unrelenting", "Demolitionist", "Vorpal Weapon"]
+        
     },
     {
         "img": "https://www.bungie.net/common/destiny2_content/icons/3d08c0b69472f9450ab003b1d8748bec.jpg",
@@ -301,7 +397,10 @@
         "rarity": "Legendary",
         "element": "Arc",
         "ammo": "Primary",
-        "season": "14"
+        "season": "14",
+        "text": "Glory in the damage the right blast can do.",
+        "perks1": ["Ambitious Assassin", "Grave Robber", "Surplus", "Underdog", "Full Auto Trigger System", "Killing Wind"],
+        "perks2": ["One For All", "Swashbuckler", "Kill Clip", "Disruption Break", "Sympathetic Arsenal", "Elemental Capacitor"]
     },
     {
         "img": "https://www.bungie.net/common/destiny2_content/icons/cf6035026e2e9e42e8f7a6ca59f1ea72.jpg",
@@ -310,7 +409,10 @@
         "rarity": "Legendary",
         "element": "Arc",
         "ammo": "Special",
-        "season": "14"
+        "season": "14",
+        "text": "Silence is better than unmeaning words.",
+        "perks1": ["Auto-Loading Holster", "No Distractions", "Under Pressure", "Surplus", "Mulligan", "Snapshot"],
+        "perks2": ["Vorpal Weapon", "Demolitionist", "Iron Reach", "Elemental Capacitor", "Eye Of The Storm", "Opening Shot"]
     },
     {
         "img": "https://www.bungie.net/common/destiny2_content/icons/05198a7d4adc5b12c326187dd61bdf96.jpg",
@@ -319,7 +421,10 @@
         "rarity": "Legendary",
         "element": "Solar",
         "ammo": "Special",
-        "season": "14"
+        "season": "14",
+        "text": "With the Uzume RR4 on your side, the Darkness doesn't stand a chance.",
+        "perks1": ["Triple Tap", "Clow Cartridge", "Bottomless Greif", "Lead From Gold", "Snapshot", "Killing Wind"],
+        "perks2": ["Explosive Payload", "Vorpal Weapon", "High-Impact Reserves", "Adrenaline Junkie", "Demolitionist", "Dragonfly"]
     },
     {
         "img": "https://www.bungie.net/common/destiny2_content/icons/30e5f83d4aab4f5ad52d96748856f62d.jpg",
@@ -328,7 +433,10 @@
         "rarity": "Legendary",
         "element": "Solar",
         "ammo": "Special",
-        "season": "14"
+        "season": "14",
+        "text": "With the Uzume RR4 on your side, the Darkness doesn't stand a chance.",
+        "perks1": ["Triple Tap", "Clow Cartridge", "Bottomless Greif", "Lead From Gold", "Snapshot", "Killing Wind"],
+        "perks2": ["Explosive Payload", "Vorpal Weapon", "High-Impact Reserves", "Adrenaline Junkie", "Demolitionist", "Dragonfly"]
     },
     {
         "img": "https://www.bungie.net/common/destiny2_content/icons/57bedcde71ace359a47fdb8e4e69ea6e.jpg",
@@ -337,7 +445,10 @@
         "rarity": "Legendary",
         "element": "Solar",
         "ammo": "Primary",
-        "season": "14"
+        "season": "14",
+        "text": "Give a little, but take a little more. —The Drifter",
+        "perks1": ["Fourth Time's The Charm", "Overflow", "Threat Detector", "Feeding Frenzy", "Heating Up", "Tunnel Vision", "Rangefinder", "Grave Robber", "Killing Wind", "Firmly Planted", "Surplus", "Dynamic Sway Reduction"],
+        "perks2": ["Dragonfly", "Frenzy", "Wellspring", "Demolitionist", "Swashbuckler", "One For All", "Rampage", "Surrounded", "Adrenaline Junkie", "Thresh", "Snapshot", "Tap The Trigger"]
     },
     {
         "img": "https://www.bungie.net/common/destiny2_content/icons/6021db765a0e86fcbdc8ecbee4323e41.jpg",
@@ -346,7 +457,10 @@
         "rarity": "Legendary",
         "element": "Void",
         "ammo": "Primary",
-        "season": "14"
+        "season": "14",
+        "text": "But here you are. This is truly a beginning… —Shin Malphur",
+        "perks1": ["Killing Wind", "Tunnel Vision", "Dynamic Sway Reduction", "Heating Up", "Quickdraw"],
+        "perks2": ["Celerity", "Adrenaline Junkie", "Kill Clip", "Tap The Trigger", "Snapshot"]
     },
     {
         "img": "https://www.bungie.net/common/destiny2_content/icons/770f40e2fdd480c2db8843b14ba3a60d.jpg",
@@ -355,7 +469,10 @@
         "rarity": "Legendary",
         "element": "Void",
         "ammo": "Primary",
-        "season": "14"
+        "season": "14",
+        "text": "But here you are. This is truly a beginning… —Shin Malphur",
+        "perks1": ["Killing Wind", "Tunnel Vision", "Dynamic Sway Reduction", "Heating Up", "Quickdraw"],
+        "perks2": ["Celerity", "Adrenaline Junkie", "Kill Clip", "Tap The Trigger", "Snapshot"]
     },
     {
         "img": "https://www.bungie.net/common/destiny2_content/icons/450ba3cac0ae75bbfea9d3659798f817.jpg",
@@ -364,7 +481,10 @@
         "rarity": "Legendary",
         "element": "Arc",
         "ammo": "Primary",
-        "season": "14"
+        "season": "14",
+        "text": "However certain we are of our simulations, they always contain an element of unpredictability. —Lakshmi-2",
+        "perks1": ["Ambitious Assassin", "Feeding Frenzy", "Under Pressure", "Zen Moment", "Killing Wind", "Surplus"],
+        "perks2": ["Dragonfly", "Multikill Clip", "Wellspring", "Unrelenting", "Elemental Capacitor", "Quickdraw"]
     },
     {
         "img": "https://www.bungie.net/common/destiny2_content/icons/ec0fc34b7199005aeaa415adedb8f63b.jpg",
@@ -373,7 +493,10 @@
         "rarity": "Legendary",
         "element": "Void",
         "ammo": "Heavy",
-        "season": "14"
+        "season": "14",
+        "text": "I have no time for nostalgia. Give me visions of braided futures, brilliantly aflame. —Lakshmi-2",
+        "perks1": ["Clow Cartridge", "Auto-Loading Holster", "Quickdraw", "Impulse Amplifier", "Underdog", "Surplus"],
+        "perks2": ["Chain Reaction", "Wellspring", "Danger Zone", "Disruption Break", "Unrelenting", "Elemental Capacitor"]
     },
     {
         "img": "https://www.bungie.net/common/destiny2_content/icons/d4d24f0c0a22666cdc9a365ad5fe3cf2.jpg",
@@ -382,7 +505,10 @@
         "rarity": "Legendary",
         "element": "Solar",
         "ammo": "Heavy",
-        "season": "14"
+        "season": "14",
+        "text": "Earth weapons strong, but Eliksni make stronger. What your Zavalakel says: stronger, together? —House Light Weaponsmith",
+        "perks1": ["Field Prep", "Mulligan", "Rangefinder", "Quickdraw", "Killing Wind", "Surplus"],
+        "perks2": ["Rampage", "Elemental Capacitor", "Thresh", "Snapshot", "Iron Gaze", "Iron Grip"]
     },
     {
         "img": "https://www.bungie.net/common/destiny2_content/icons/d1b6bb6685c073cc52e65180801b9abf.jpg",
@@ -391,7 +517,11 @@
         "rarity": "Legendary",
         "element": "Void",
         "ammo": "Heavy",
-        "season": "14"
+        "season": "14",
+        "text": "It breaks the rules of reality as ruthlessly as it shatters your foes.",
+        "perks1": ["Feeding Frenzy", "Rewind Rounds", "Subsistence", "Demolitionist", "Surplus", "Dynamic Sway Reduction"],
+        "perks2": ["One For All", "Firefly", "Adrenaline Junkie", "Thresh", "Tap The Trigger", "High-Impact Reserves"]
+        
     },
     {
         "img": "https://www.bungie.net/common/destiny2_content/icons/f7beeb61054af0e31be00465d2a27aae.jpg",
@@ -400,7 +530,11 @@
         "rarity": "Legendary",
         "element": "Void",
         "ammo": "Heavy",
-        "season": "14"
+        "season": "14",
+        "text": "A full measure annihilates the rules of reality.",
+        "perks1": ["Feeding Frenzy", "Rewind Rounds", "Subsistence", "Demolitionist", "Surplus", "Dynamic Sway Reduction"],
+        "perks2": ["One For All", "Firefly", "Adrenaline Junkie", "Thresh", "Tap The Trigger", "High-Impact Reserves"]
+        
     },
     {
         "img": "https://www.bungie.net/common/destiny2_content/icons/a2f01f3c527b240bfb51ae32def5807d.jpg",
@@ -409,7 +543,10 @@
         "rarity": "Legendary",
         "element": "Void",
         "ammo": "Heavy",
-        "season": "14"
+        "season": "14",
+        "text": "All doors open before you.",
+        "perks1": ["Field Prep", "Auto-Loading Holster", "Tunnel Vision", "Heating Up", "Under Pressure", "Slideways"],
+        "perks2": ["Surrounded", "Rampage", "Unrelenting", "Snapshot", "Zen Moment", "Adrenaline Junkie"]
     },
     {
         "img": "https://www.bungie.net/common/destiny2_content/icons/8836eea0aaf42fb810bc2ec6cb35aa8e.jpg",
@@ -418,7 +555,10 @@
         "rarity": "Legendary",
         "element": "Solar",
         "ammo": "Heavy",
-        "season": "14"
+        "season": "14",
+        "text": "The Hezen Axis Mind is tireless and infinite. While it cannot be stopped… it can be paused.",
+        "perks1": ["Tracking Module", "Auto-Loading Holster", "Impulse Amplifier", "Overflow", "Quickdraw", "Surplus"],
+        "perks2": ["Vorpal Weapon", "Lasting Impression", "Demolitionist", "Cluster Bombs", "Wellspring", "Thresh"]
     },
     {
         "img": "https://www.bungie.net/common/destiny2_content/icons/b2662d712b4fc4c0cee8e1b70c167581.jpg",
@@ -427,6 +567,9 @@
         "rarity": "Legendary",
         "element": "Solar",
         "ammo": "Heavy",
-        "season": "14"
+        "season": "14",
+        "text": "The Hezen Axis Mind is tireless and infinite. Tireless and infinite. Tireless and infinite…",
+        "perks1": ["Tracking Module", "Auto-Loading Holster", "Impulse Amplifier", "Overflow", "Quickdraw", "Surplus"],
+        "perks2": ["Vorpal Weapon", "Lasting Impression", "Demolitionist", "Cluster Bombs", "Wellspring", "Thresh"]
     }
 ]
