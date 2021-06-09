@@ -4,8 +4,9 @@
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
-    "build": "handlebars views/partials/item.handlebars -f public/itemTemplate.js",
-    "prestart": "npm run build"
+    "buildItem": "handlebars views/partials/item.handlebars -f public/itemTemplate.js",
+    "buildLioadout": "handlebars views/partials/loadout.handlebars -f public/loadoutTemplate.js",
+    "prestart": "npm run buildItem & npm run buildLioadout"
   },
   "dependencies": {
     "express": "^4.17.1",

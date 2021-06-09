@@ -24,16 +24,24 @@ app.use(express.static('public'));
 app.get('/', function (req, res) {
   console.log("  -- req.params:", req.params)
   res.status(200).render('htmlpage', {
+    success: true,
     databasePage: true,
     itemContainer: itemData
+  })
+});
+
+app.get('/lists', function (req, res) {
+  console.log("  -- req.params:", req.params)
+  res.status(200).render('htmlpage', {
+    success: true,
+    databasePage: false,
   })
 });
 
 app.get('*', function (req, res) {
   console.log("  -- req.params:", req.params)
   res.status(404).render('htmlpage', {
-    database: false,
-    itemContainer: itemData
+    success: false,
   })
 });
 
@@ -41,4 +49,3 @@ app.listen(port, function () {
   console.log("== Server is listening on port", port);
 });
 
-//test 2 please work

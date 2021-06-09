@@ -13,8 +13,7 @@
 
     <link rel="stylesheet" href="/style.css" media="screen">
     <script src="https://cdn.jsdelivr.net/npm/handlebars@latest/dist/handlebars.runtime.js"></script>
-    <script src="/itemTemplate.js" charset="utf-8" defer></script>
-    <script src="/index.js" charset="utf-8" defer></script>
+    
 
   </head>
 
@@ -44,12 +43,15 @@
         
         <ul id="links">
           <li><a href="/">Database</a></li>
-          <li><a href="#">Lists</a></li>
+          <li><a href="/lists">Lists</a></li>
         </ul>
       </div>
-      
-      {{#if databasePage}}
-        {{> database}}
+      {{#if success}}
+        {{#if databasePage}}
+          {{> database}}
+        {{else}}
+          {{> lists}}
+        {{/if}}
       {{else}}
         {{> 404}}
       {{/if}}

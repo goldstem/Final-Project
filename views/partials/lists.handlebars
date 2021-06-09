@@ -1,0 +1,39 @@
+<script src="/lists.js" charset="utf-8" defer></script>
+<script src="/loadoutTemplate.js" charset="utf-8" defer></script>
+
+
+<div class="loadouts">
+    <h2>Loadouts</h2>
+    <div class ="loadout-container">
+        {{#each loadoutContainer}}
+            {{> loadout}}
+        {{/each}}
+    </div>
+    <button type="button" class="open-loadouts">Create Loadout</button>
+    <div id="modal-background" class="hidden"></div>
+    <div id="modal" class="hidden">
+        <div class="kinetic-input">
+            <label for="kinetic">Kinetic:</label>
+            <select name="Kinetic" id="kinetic">
+                <option>Select Kinetic</option>
+            </select>
+        </div>
+        <div class="energy-input">
+            <label for="energy">Energy:</label>
+            <select name="energy" id="energy">
+                <option>Select Energy</option>
+            </select>
+        </div>
+        <div class="heavy-input">
+            <label for="heavy">Heavy:</label>
+            <select name="heavy" id="heavy">
+                <option>Select Heavy</option>
+            </select>
+        </div>
+
+        <div class="exit">
+            <button type="button" class="cancel-button">Cancel</button>
+            <button type="button" class="accept-button">Accept</button>
+        </div>
+    </div>
+</div>
