@@ -20,33 +20,38 @@
 
   <body>
     <!-- The <i> tag below includes the lizard hand icon from Font Awesome.  Do not directly style this element. -->
-    <a href="#"><h1 class="site-title"> Destiny 2 Weapon Database</h1></a>
+    <a href="/"><h1 class="site-title"> Destiny 2 Weapon Database</h1></a>
 
     <div class="row">
       <div class="menu" style="background-color:#bbb;">
+        {{#if databasePage}}
         <h2>Search</h2>
-        <div class="dropdown">
-          <!-- <button class ="menu-button">Search Options</button> -->
-          <p>Search Options</p>
-          <select class="dropdown-options">
-            <option selected>Name</option>
-            <option>Type</option>
-            <option>Rarity</option>
-            <option>Element</option>
-            <option>Ammo</option>
-            <option>Season</option>
-          </select>
-        </div>
+          <div class="dropdown">
+            <!-- <button class ="menu-button">Search Options</button> -->
+            <p>Search Options</p>
+            <select class="dropdown-options">
+              <option selected>Name</option>
+              <option>Type</option>
+              <option>Rarity</option>
+              <option>Element</option>
+              <option>Ammo</option>
+              <option>Season</option>
+              <option>Perks</option>
+            </select>
+          </div>
+          <input type="text" id="search-input" placeholder="Search.." title="Type in a category">
+        {{/if}}
         
-        <input type="text" id="search-input" placeholder="Search.." title="Type in a category">
         <ul id="links">
-          <li><a href="#">Database</a></li>
+          <li><a href="/">Database</a></li>
           <li><a href="#">Lists</a></li>
         </ul>
       </div>
       
       {{#if databasePage}}
         {{> database}}
+      {{else}}
+        {{> 404}}
       {{/if}}
       
     </div>

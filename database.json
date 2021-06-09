@@ -6,7 +6,9 @@
         "rarity": "legendary",
         "element": "kinetic",
         "ammo": "primary",
-        "season": "14"
+        "season": "14",
+        "perks1": ["Rewind Rounds", "Explosive Payload", "Killing Wind", "Tunnel Vision", "Osmosis", "Thresh"],
+        "perks2": ["Frenzy", "Firefly", "Eye Of The Storm", "Kill Clip", "Opening Shot", "Adrenaline Junkie"]
     },
 
     {

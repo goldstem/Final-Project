@@ -160,6 +160,11 @@ a {
   display: block;
 }
 
+.error-page {
+  width: 100%;
+  padding: 12px;
+}
+
 
 
 
