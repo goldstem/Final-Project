@@ -27,7 +27,7 @@ function doSearch() {
     
     allItems.forEach(function (item) {
         if(searchQuery(item, query)){
-            insertItem(item.img, item.name, item.type, item.rarity, item.element, item.ammo, item.season, item.perks1, item.perks2)
+            insertItem(item.img, item.name, item.type, item.rarity, item.element, item.ammo, item.season, item.text, item.perks1, item.perks2)
         }
     })
     addListenerAgain()
@@ -70,7 +70,7 @@ function searchQuery(item, query){
 /*
 ** Function to insert item into handlebars template, and then itno the html
 */
-function insertItem(img, name, type, rarity, element, ammo, season, perks1, perks2){
+function insertItem(img, name, type, rarity, element, ammo, season, text, perks1, perks2){
     var itemContext = {
         img: img,
         name: name,
@@ -79,6 +79,7 @@ function insertItem(img, name, type, rarity, element, ammo, season, perks1, perk
         element: element,
         ammo: ammo,
         season: season,
+        text: text,
         perks1: perks1,
         perks2, perks2
     }
@@ -116,6 +117,9 @@ function convertItemToObject(itemEle){
 
     var seasonName = itemEle.querySelector(".season-tag")
     item.season = seasonName.textContent.trim()
+
+    var textName = itemEle.querySelector(".flavor-text")
+    item.text = textName.textContent.trim()
 
     var perks1Name = itemEle.querySelector(".perks1-content")
     item.perks1 = perks1Name.textContent.trim()

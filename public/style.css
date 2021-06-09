@@ -165,6 +165,19 @@ a {
   padding: 12px;
 }
 
+.perk-label, .flavor-text, .perks1-content, .perks2-content{
+  color: white;
+  padding-left: 10px;
+}
+
+.flavor-text {
+  font-style: italic;
+}
+
+
+
+
+
 
 
 
